@@ -1,4 +1,4 @@
-<p align="center">
+<p align="justify">
 <h2>cipher-ende</h2>
 
 Simple Encryption and Decryption<br>
