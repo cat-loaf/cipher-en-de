@@ -1,7 +1,7 @@
 
 # <p align="center">cipher-ende</p>
 
-<p align="center">Simple Encryption and Decryption<br>
+<p align="center">Simple Text encryption and decryption<br>
 Made with JS/NodeJS</p>
 
 
