@@ -10,4 +10,4 @@ Made with JS/NodeJS</p>
 <hr />
 
 
-<p align="center">Current Release: [Click Here!](https://github.com/cat-loaf/cipher-ende/releases/tag/Console) </p>
+<p align="center">Current Release: <a href="https://github.com/cat-loaf/cipher-ende/releases/tag/Console">Click Here</a></p>
