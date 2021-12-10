@@ -1,8 +1,8 @@
 
 <p align="center"><h2>cipher-ende</h2></p>
 
-Simple Encryption and Decryption<br>
-Made with JS/NodeJS
+<p align="center">Simple Encryption and Decryption<br>
+Made with JS/NodeJS</p>
 
 
 
