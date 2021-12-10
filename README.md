@@ -1,5 +1,5 @@
 
-<p align="center"><h2>cipher-ende</h2></p>
+# <p align="center">cipher-ende</p>
 
 <p align="center">Simple Encryption and Decryption<br>
 Made with JS/NodeJS</p>
